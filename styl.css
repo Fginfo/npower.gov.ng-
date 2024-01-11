@@ -1,0 +1,26 @@
+input{ content: "";
+    display: inline;
+}
+select, option{width: 200px;
+    color: black;
+
+
+}
+p, input{
+    align-items: center;
+    width: 200px;
+    
+}
+div, br{ color: green;
+}
+html{ background-color: aliceblue;}
+textarea{
+    color: black;
+}
+area{
+    color: red;
+    margin: 200cqw;
+}
+h5{
+    color: red;
+}

@@ -1,0 +1,65 @@
+div{
+    color: blueviolet;
+}
+input{background-color: antiquewhite;
+    
+    font-weight: bold;
+    font-style: oblique;
+    padding: 0px 5px;
+    border-radius: 30px;
+    font-size: large;
+
+}
+body{
+    background-color:rgb(211, 214, 223);
+box-sizing: border-box;
+}
+br , b{
+    align-items: center;
+    font-weight: bold;
+    cursor: pointer;
+    color: green;
+}
+h2
+{
+    color: green;
+}
+p{
+    color: rgb(33, 11, 230);
+    font-weight: bolder;
+
+}
+
+.password{
+    display: inline-block;
+    position: relative;
+border: 0px;
+outline: 0;
+border-radius: 20px;
+}
+
+
+.password input{
+    background-color: antiquewhite;
+    padding: 3px 0px;
+    outline: 0px;
+    }
+    img{
+        position: absolute;
+    top: 5px;
+    right: 8px;
+    width: 24px;
+    }
+    picture img{
+        position: initial;
+        width: 255px;
+        height: 270px;
+        
+    }
+main{
+    color: green;
+    font-size: large;
+}
+h3{ color: green;
+    
+}
